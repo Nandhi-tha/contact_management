@@ -1,0 +1,2 @@
+## Contact Management App
+A simple contact management application built with Python's Tkinter library and SQLite database. This app allows users to input contact details and store them in a SQLite database.
